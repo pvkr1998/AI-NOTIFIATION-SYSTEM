@@ -1,1 +1,1 @@
-SEE PRESENTATION FOR STEP BY STEP IMPLEMENTATION
+Go through the presentation for detailed overview and implementation process
